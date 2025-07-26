@@ -1,6 +1,4 @@
-<img src="https://avatars.githubusercontent.com/u/000000?v=4" width="150" alt="Foto de perfil de Gabriel Andrade" align="left" />
-
-# Gabriel Andrade — @seuuser
+# Gabriel Nunes — @gnunes-io
 
 Olá! Sou Gabriel — automações com N8n, dados com Power BI & Python, e entusiasta de tecnologia. 🚀  
 Atualmente focado em construir soluções inteligentes e acessíveis para pequenos negócios.  
