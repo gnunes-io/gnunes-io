@@ -1,7 +1,28 @@
-  <h3>Olá visitante! Eu sou o <a href="https://intelflow.com.br/">Gabriel Nunes</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"></h1>
-🔭 Administrador e Cientista de Dados para Negócios - Um apaixonado por tecnologia e resultados!  
-<br>
-<br>
+<img src="https://avatars.githubusercontent.com/u/000000?v=4" width="150" alt="Foto de perfil de Gabriel Andrade" align="left" />
 
-![Gabriel's Github Profile Views](https://komarev.com/ghpvc/?username=gnunes-io&color=blueviolet)  
-[![Gabriel's Github Stats](https://github-readme-stats.vercel.app/api?username=gnunes-io&count_private=true&cache=false)](https://github.com/gnunes-io)
+# Gabriel Andrade — @seuuser
+
+Olá! Sou Gabriel — automações com N8n, dados com Power BI & Python, e entusiasta de tecnologia. 🚀  
+Atualmente focado em construir soluções inteligentes e acessíveis para pequenos negócios.  
+Amante de café, bots e ideias malucas. ☕🤖
+
+---
+
+### ✨ Meus valores
+- 🌸 Expressar meu eu autêntico  
+- 🛡️ Segurança e confiança  
+- 🧠 Curiosidade de iniciante  
+- 🫶 Consenso e empatia nas decisões  
+
+---
+
+### 🛠️ Como trabalho
+Sou movido por propósito e clareza. Gosto de listas, sistemas simples e soluções eficazes.  
+Se eu parecer estar muito no meu mundo, pode me chamar — adoro compartilhar o que aprendi! ✅
+
+---
+
+### 📬 Contato
+- [Twitter](https://twitter.com/seutwitter)  
+- [Site pessoal](https://seusite.com)  
+- [Instagram (projetos)](https://instagram.com/seuinsta)
