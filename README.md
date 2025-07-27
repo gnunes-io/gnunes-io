@@ -50,7 +50,7 @@ Ajudo empresas a **potencializar resultados** através de análise de dados e de
 ---
 
 ### 📫 Contato
-- ✉️ E-mail: [gabrielnunes.gna@gmail.com](mailto:gabrielnunes.gna@gmail.com)  
 - 🌐 Portfólio: [www.intelflow.com.br](https://www.intelflow.com.br)  
+- ✉️ E-mail: [gabrielnunes.gna@gmail.com](mailto:gabrielnunes.gna@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/gnunes-io](https://www.linkedin.com/in/gnunes-io)  
 - 🐙 GitHub: [github.com/gnunes-io](https://github.com/gnunes-io)
