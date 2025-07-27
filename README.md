@@ -4,6 +4,7 @@ Eu sou o **Gabriel Nunes**.
 Moro em **Santos (SP)**, tenho **29 anos** e estou imerso no universo de **automação e tecnologia**, buscando evoluir um pouco mais todos os dias.
 
 Amo **praias**, **acampamentos** e bons momentos com amigos. De vez em quando, me conecto com a nostalgia revivendo jogos antigos.  
+
 ♞ No xadrez, me identifico com o **cavalo**, com movimentos não lineares, criativos e estratégicos, ocupando espaços improváveis com alto impacto. 
 
 ---
@@ -31,9 +32,6 @@ Ajudo empresas a **potencializar resultados** através de análise de dados e de
 
   <!-- AWS -->
   <img src="https://img.icons8.com/color/48/amazon-web-services.png" alt="AWS" width="40" height="40" style="margin-right:10px;"/>
-
-  <!-- N8N -->
-  <img src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.png" alt="N8N" width="80" height="80" style="margin-right:10px; vertical-align:top;"/>
 
   <!-- Power BI -->
   <img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI" width="40" height="40" style="margin-right:10px;"/>
