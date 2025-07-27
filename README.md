@@ -1,7 +1,6 @@
 # Olá, viajante! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">
 
-Eu sou o **Gabriel Nunes**.  
-Moro em **Santos (SP)**, tenho **29 anos** e estou imerso no universo de **automação e tecnologia**, buscando evoluir um pouco mais todos os dias.
+Eu sou o **Gabriel Nunes**, tenho **29 anos** e estou imerso no universo de **dados e automação**, buscando evoluir um pouco mais todos os dias.
 
 Amo **praias**, **acampamentos** e bons momentos com amigos. De vez em quando, me conecto com a nostalgia revivendo jogos antigos.  
 
