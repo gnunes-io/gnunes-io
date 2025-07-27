@@ -1,27 +1,59 @@
-# Gabriel Andrade — @gnunes-io
+# Olá, viajante! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">
 
-Olá! Sou Gabriel — automações com N8n, dados com Power BI & Python, e entusiasta de tecnologia. 🚀  
-Atualmente focado em construir soluções inteligentes e acessíveis para pequenos negócios.  
-Amante de café, bots e ideias malucas. ☕🤖
+Eu sou o **Gabriel Nunes**.  
+Moro em **Santos (SP)**, tenho **29 anos** e estou imerso no universo de **automação e tecnologia**, buscando evoluir um pouco mais todos os dias.
 
-<hr>
+Amo **praias**, **acampamentos** e bons momentos com amigos. De vez em quando, me conecto com a nostalgia revivendo jogos antigos.  
+♞ No xadrez, me identifico com o **cavalo**, com movimentos não lineares, criativos e estratégicos, ocupando espaços improváveis com alto impacto. 
 
-### ✨ Meus valores
-- 🌸 Expressão do eu autêntico  
-- 🛡️ Segurança e confiança  
-- 🧠 Curiosidade de iniciante  
-- 🤝 Entendimento mútuo e consenso  
+---
 
-<hr>
+### 👨‍💻 Sobre mim
 
-### 🛠️ Como trabalho
-Gosto de trazer clareza e estabilidade através da curiosidade.  
-Crio sistemas simples, gosto de checklists ✅ e acredito que compartilhar conhecimento é essencial.  
-Se eu parecer introspectivo, me chama! Pode ser só foco demais. 😅
+Sou formado em **Administração** e especializado em **Ciência de Dados**.  
+Ajudo empresas a **potencializar resultados** através de análise de dados e desenvolvimento de planos de alavancagem. 🚀
 
-<hr>
+---
 
-### 📬 Contato
-- [Twitter](https://twitter.com/seutwitter)  
-- [Site pessoal](https://seusite.com)  
-- [Instagram (projetos)](https://instagram.com/seuinsta)
+### 🔧 Como faço isso:
+- Desenvolvimento de **estruturas de captação de dados**
+- Criação de **pipelines automatizados** para extração de sistemas
+- **Tratamento e análise de dados** com machine learning para decisões estratégicas
+- **Visualização de KPIs e métricas** para a alta gestão
+- Desenvolvimento de **ferramentas low-code para automação de tarefas**
+
+<p align="left">
+  <!-- Python -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" style="margin-right:10px;"/>
+  
+  <!-- SQL -->
+  <img src="https://img.icons8.com/fluency/48/database.png" alt="SQL" width="40" height="40" style="margin-right:10px;"/>
+
+  <!-- AWS -->
+  <img src="https://img.icons8.com/color/48/amazon-web-services.png" alt="AWS" width="40" height="40" style="margin-right:10px;"/>
+
+  <!-- N8N -->
+  <img src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.png" alt="N8N" width="80" height="80" style="margin-right:10px; vertical-align:top;"/>
+
+  <!-- Power BI -->
+  <img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI" width="40" height="40" style="margin-right:10px;"/>
+
+  <!-- Apache Spark -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="Apache Spark" width="80" height="40" style="margin-right:10px;"/>
+</p>
+
+---
+
+### 💡 Meus valores
+- Curiosidade eterna de um aprendiz 🤓  
+- Ética e compromisso 🤝  
+- Eficiência e assertividade ⚙️  
+- Qualidade no trabalho em equipe 🧩
+
+---
+
+### 📫 Contato
+- ✉️ E-mail: [gabrielnunes.gna@gmail.com](mailto:gabrielnunes.gna@gmail.com)  
+- 🌐 Portfólio: [www.intelflow.com.br](https://www.intelflow.com.br)  
+- 💼 LinkedIn: [linkedin.com/in/gnunes-io](https://www.linkedin.com/in/gnunes-io)  
+- 🐙 GitHub: [github.com/gnunes-io](https://github.com/gnunes-io)
