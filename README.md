@@ -17,7 +17,7 @@ Ajudo empresas a **potencializar resultados** através de análise de dados e de
 
 ### 🔧 Como faço isso:
 - Engenharia de **pipelines de dados automatizados** com (AWS/Azure) e Python + SQL
-- **Tratamento e análise de dados** com machine learning para decisões estratégicas
+- **Análise de dados** com machine learning para decisões estratégicas
 - **Visualização de KPIs e métricas** para a alta gestão com PowerBI
 
 <p align="left">
