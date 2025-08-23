@@ -51,4 +51,5 @@ Ajudo empresas a **potencializar resultados** através de análise de dados e de
 - ✉️ E-mail: [gabrielnunes.gna@gmail.com](mailto:gabrielnunes.gna@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/gnunes-io](https://www.linkedin.com/in/gnunes-io)  
 
-*Veja alguns dos meus projetos abaixo 👇*
+
+**Veja alguns dos meus projetos abaixo 👇**
