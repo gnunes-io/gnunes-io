@@ -10,17 +10,15 @@ Amo **praias**, **acampamentos** e bons momentos com amigos. De vez em quando, m
 
 ### 👨‍💻 Sobre mim
 
-Sou formado em **Administração** e especializado em **Ciência de Dados**.  
+Sou formado em **Administração de Empresas** e especializado em **Data Analytics**.  
 Ajudo empresas a **potencializar resultados** através de análise de dados e desenvolvimento de planos de alavancagem. 🚀
 
 ---
 
 ### 🔧 Como faço isso:
-- Desenvolvimento de **estruturas de captação de dados**
-- Criação de **pipelines automatizados** para extração de sistemas
+- Engenharia de **pipelines de dados automatizados** com (AWS/Azure) e Python + SQL
 - **Tratamento e análise de dados** com machine learning para decisões estratégicas
-- **Visualização de KPIs e métricas** para a alta gestão
-- Desenvolvimento de **ferramentas low-code para automação de tarefas**
+- **Visualização de KPIs e métricas** para a alta gestão com PowerBI
 
 <p align="left">
   <!-- Python -->
@@ -42,15 +40,15 @@ Ajudo empresas a **potencializar resultados** através de análise de dados e de
 ---
 
 ### 💡 Meus valores
-- Curiosidade eterna de um aprendiz 🤓  
-- Ética e compromisso 🤝  
-- Eficiência e assertividade ⚙️  
-- Qualidade no trabalho em equipe 🧩
+- Curiosidade eterna de um aprendiz   
+- Ética e compromisso   
+- Eficiência e assertividade  
+- Qualidade no trabalho em equipe 
 
 ---
 
 ### 📫 Contato
-- 🌐 Portfólio: [www.intelflow.com.br](https://www.intelflow.com.br)  
 - ✉️ E-mail: [gabrielnunes.gna@gmail.com](mailto:gabrielnunes.gna@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/gnunes-io](https://www.linkedin.com/in/gnunes-io)  
-- 🐙 GitHub: [github.com/gnunes-io](https://github.com/gnunes-io)
+
+*Veja alguns dos meus projetos abaixo 👇*
