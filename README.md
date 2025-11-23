@@ -2,8 +2,6 @@
 
 Eu sou o **Gabriel Nunes**, tenho **29 anos** e estou imerso no universo de **dados e automação para negócios**, buscando evoluir um pouco mais todos os dias.
 
-Amo **praias**, **acampamentos** e bons momentos com amigos. De vez em quando, me conecto com a nostalgia revivendo jogos antigos.  
-
 ♞ No xadrez, me identifico com o **cavalo**, com movimentos não lineares, criativos e estratégicos, ocupando espaços improváveis de alto impacto no resultado do jogo. 
 
 ---
