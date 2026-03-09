@@ -51,3 +51,12 @@ Ajudo empresas a **potencializar resultados** através de análise de dados e de
 
 
 **Veja alguns dos meus projetos abaixo 👇**
+
+[Dashboard Comercial](https://github.com/gnunes-io/dashboard-comercial)
+[Análise de Dados Vinícula - RS](https://github.com/gnunes-io/data_analytics_vinhos)
+[Dashboard Financeiro](https://github.com/gnunes-io/dashboard-financeiro)
+[Predição de Mercado Financeiro (Machine Learning)](https://github.com/gnunes-io/ml_IBOV_prediction)
+⚠️ BI unificado de controladoria Comercial (em construção)
+⚠️ Pipeline de dados Epidemiológicos em Cloud AWS (em construção)
+
+
