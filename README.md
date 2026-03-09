@@ -1,6 +1,6 @@
 # Olá, viajante! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">
 
-Eu sou o **Gabriel Nunes**, tenho **29 anos** e estou imerso no universo de **dados e automação para negócios**, buscando evoluir um pouco mais todos os dias.
+Eu sou o **Gabriel Nunes**, tenho **30 anos** e estou imerso no universo de **dados e automação para negócios**, buscando evoluir um pouco mais todos os dias.
 
 ♞ No xadrez, me identifico com o **cavalo**, com movimentos não lineares, criativos e estratégicos, ocupando espaços improváveis de alto impacto no resultado do jogo. 
 
